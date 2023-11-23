@@ -7,11 +7,11 @@ I'm a Software Engineer, a Project Manager and Community Engineer who currently 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I studyied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently skilled in HTML, CSS, JavaScript, Reactjs, and Vuejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [[view my resume](https://docs.google.com/document/d/1wJBo9AHUEFnh66FYzmPoe4zVvep2U8wB/edit?usp=drive_link&ouid=112739787769173972199&rtpof=true&sd=true)](#) and contact me by emailing bankson03@gmail.com.
+- 📫 You can [[view my resume](https://docs.google.com/document/d/1wJBo9AHUEFnh66FYzmPoe4zVvep2U8wB/edit?usp=drive_link&ouid=112739787769173972199&rtpof=true&sd=true)] and contact me by emailing bankson03@gmail.com.
 
 ---
 
